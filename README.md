@@ -1,6 +1,6 @@
 # **How to Train Your Detection Neural Network: YOLOv11**
 
-This repository features a Colab notebook designed to introduce object detection using the state-of-the-art **YOLOv11** model. It provides a beginner-friendly overview of:
+The goal is to add more notebooks to this repository, ideally from an introductory perspective. At the state of the art, this repository features a Colab notebook designed to introduce object detection using the state-of-the-art **YOLOv11** model. It provides a beginner-friendly overview of:
 
 - The fundamentals of object detection.
 - Data labeling best practices.
